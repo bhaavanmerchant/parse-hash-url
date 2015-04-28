@@ -1,0 +1,1 @@
+# parse-hash-url
